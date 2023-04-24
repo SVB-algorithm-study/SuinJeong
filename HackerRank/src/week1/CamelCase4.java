@@ -1,4 +1,4 @@
-package simple;
+package week1;
 import java.io.*;
 import java.util.*;
 import java.util.stream.Stream;
