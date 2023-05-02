@@ -1,4 +1,4 @@
-package simple;
+package week2;
 
 import java.io.*;
 import java.math.*;
