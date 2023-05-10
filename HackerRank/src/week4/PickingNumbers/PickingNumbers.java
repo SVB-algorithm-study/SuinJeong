@@ -1,8 +1,8 @@
-package week4;
+package week4.PickingNumbers;
 
 import java.util.*;
 
-public class PickingNumbers {
+public class PickingNumbers { //시간 복잡도가 O(n^2)이다. 더 나은 시간복잡도를 위해 02버전으로 한번 더 품.
 	
 	public static int pickingNumbers(List<Integer> a) {
 	    // Write your code here
