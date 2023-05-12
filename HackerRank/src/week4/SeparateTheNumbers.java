@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.ArrayList;
 
 public class SeparateTheNumbers {
-//https://sowon-dev.github.io/2021/03/01/210302al-hackerrank-Separate-the-Numbers/ 참고
+//https://sowon-dev.github.io/2021/03/01/210302al-hackerrank-Separate-the-Numbers/ 참고 
 	
 	public static void separateNumbers(String s) {
 	    // Write your code here
