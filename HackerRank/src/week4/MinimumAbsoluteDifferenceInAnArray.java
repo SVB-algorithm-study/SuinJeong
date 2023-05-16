@@ -9,7 +9,7 @@ public class MinimumAbsoluteDifferenceInAnArray {
 	public static int minimumAbsoluteDifference(List<Integer> arr) {
 	    // Write your code here
 		Collections.sort(arr);
-		int d = arr.get(1)-arr.get(0);
+		int d = arr.get(1)-arr.get(0); 
 		
 		for(int i = 0; i<arr.size()-1; i++) {
 			if(d > arr.get(i+1)-arr.get(i)) {
