@@ -14,7 +14,7 @@ public class MinimumAbsoluteDifferenceInAnArray {
 		for(int i = 0; i<arr.size()-1; i++) {
 			if(d > arr.get(i+1)-arr.get(i)) {
 				d = arr.get(i+1)-arr.get(i);
-			}
+			} 
 		}
 		
 	    return d;
