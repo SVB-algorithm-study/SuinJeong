@@ -16,7 +16,7 @@ public class MinimumAbsoluteDifferenceInAnArray {
 				d = arr.get(i+1)-arr.get(i);
 			} 
 		}
-		
+	
 	    return d;
 	}
 
